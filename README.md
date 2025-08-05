@@ -1,0 +1,2 @@
+# school-projects
+COMPUTER SYSTEM ENGINEERING STUDENT
